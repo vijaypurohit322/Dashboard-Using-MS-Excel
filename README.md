@@ -8,7 +8,8 @@ Getting stuck to manage employees ? Here Dashboard is ready to manage your bulky
 
 ### Note : 
  Remaining details will be shared by 20 March 2021. Due to some urgent work, I won't be able to share.
- For now what you can do ?
+ 
+  For now what you can do ?
   - In case of any queries you can send me your doubts on vijaypurohit322@gmail.com 
  
  ------------
